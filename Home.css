@@ -1,0 +1,199 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 663px;
+}
+
+.u-section-1 .u-image-1 {
+  height: 623px;
+  width: 1140px;
+  margin: 20px -15px 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  width: 1110px;
+  height: 636px;
+  filter: brightness(0.8);
+  margin: -636px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  transition-duration: 0.5s;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: -512px 124px 0 551px;
+}
+
+.u-section-1 .u-text-2 {
+  margin-left: 551px;
+  margin-right: 124px;
+  margin-bottom: 60px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 457px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 514px;
+    filter: brightness(0.6);
+    width: 940px;
+    margin-top: 222px;
+    margin-right: 0;
+    margin-left: 100px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 940px;
+    height: 539px;
+    margin-top: -473px;
+    margin-right: 262px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -749px;
+    margin-right: 209px;
+    margin-left: 451px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 451px;
+    margin-right: 25px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 211px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 394px;
+    width: 720px;
+    margin-left: 210px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 720px;
+    height: 413px;
+    margin-top: -353px;
+    margin-right: 210px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -623px;
+    margin-left: 255px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 255px;
+    margin-right: 1px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 10px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 296px;
+    width: 540px;
+    margin-left: 300px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    height: 310px;
+    margin-top: -255px;
+    margin-right: auto;
+    margin-left: 300px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -520px;
+    margin-right: 157px;
+    margin-left: 75px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 75px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    height: 186px;
+    width: 340px;
+    margin-top: 202px;
+    margin-left: 400px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 195px;
+    margin-top: -198px;
+    margin-left: 400px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -332px;
+    margin-right: 99px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+.u-section-1 .u-text-1,
+.u-section-1 .u-text-1:before,
+.u-section-1 .u-text-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
+}
+
+.u-section-1 .u-text-1.u-text-1.u-text-1:hover {
+  border-style: solid !important;
+  border-top-width: 2px !important;
+  border-left-width: 2px !important;
+  border-right-width: 2px !important;
+  border-bottom-width: 2px !important;
+  border-color: #404040 !important;
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-text-1 {
+  border-style: solid !important;
+  border-width: 0px !important;
+  border-color: transparent !important;
+}
+
+.u-section-1 .u-text-1.u-text-1.u-text-1.hover {
+  border-style: solid !important;
+  border-top-width: 2px !important;
+  border-left-width: 2px !important;
+  border-right-width: 2px !important;
+  border-bottom-width: 2px !important;
+  border-color: #404040 !important;
+  transform: scale(1.1) translateX(0px) translateY(0px) !important;
+}
+
+.u-section-1 .u-text-1 {
+  border-style: solid !important;
+  border-width: 0px !important;
+  border-color: transparent !important;
+}
+
+.u-section-1 .u-container-layout:hover .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-text-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
